@@ -3,7 +3,7 @@
 <!--
 **ankushkalra/ankushkalra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankushkalra)](https://github.com/anuraghazra/github-readme-stats)
+![Ankush's github stats](https://github-readme-stats.vercel.app/api?username=ankushkalra&count_private=true&theme=cobalt&show_icons=true)
 
 Here are some ideas to get you started:
 
