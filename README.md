@@ -1,6 +1,6 @@
 ## Hi 👋 I am a JavaScript Developer specializing in React.js!
 
-I am a Software Engineer lives in Noida, India. I enjoy working with Javscript. I Mostly developed things using React, React Native and Node.js.
+I am a Software Engineer living in Noida, India. I enjoy working with JavaScript. I mostly develop things using React.js, React Native, and Node.js.
 
 - 👯 I’m looking to collaborate on anything related to Javascript.
 - 😊 Willing to contribute in opensource development projects.
