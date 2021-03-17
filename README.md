@@ -1,4 +1,4 @@
-## Hi 👋 I am Ankush!
+## Hi 👋 I am a JavaScript Developer specializing in React.js!
 
 I am a Software Engineer lives in Noida, India. I enjoy working with Javscript. I Mostly developed things using React, React Native and Node.js.
 
