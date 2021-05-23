@@ -5,7 +5,7 @@ I am a Software Engineer living in Noida, India. I enjoy working with JavaScript
 - 👯 I’m looking to collaborate on anything related to Javascript.
 - 😊 Willing to contribute in opensource development projects.
 - 💬 Ask me about anything related to Web Development, Automation and Career Guidance. 
-- 📫 How to reach me: https://twitter.com/iamankushkalra
+- 📫 How to reach me: ankushkalra2@gmail.com
 
 <br/>
 
