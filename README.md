@@ -24,8 +24,6 @@ I am a Software Engineer living in Noida, India. I enjoy working with JavaScript
 <br/>
 <br>
 
-![Ankush's github stats](https://github-readme-stats.vercel.app/api?username=ankushkalra&count_private=true&theme=cobalt&show_icons=true)
-
 <!--
 **ankushkalra/ankushkalra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
